@@ -1,5 +1,5 @@
 import { create, style } from "../componentUtilities";
-import { getUserId } from "../scripts/funcs";
+import { getUserId } from "../tools/funcs";
 import { createLogInPopup } from "./logInPopup";
 import { createSignUpPopup } from "./signUpPopup";
 //
